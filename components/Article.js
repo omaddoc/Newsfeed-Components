@@ -88,7 +88,7 @@ const data = [
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`,
   },
   {
-    title: "Professional Software Development in 2020",
+    title: "HTML in 2020",
     date: "Feb 16th, 2020",
     firstParagraph: `Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights 
     Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven 
@@ -113,7 +113,7 @@ const data = [
     Fawkes maze raw-steak Voldemort Goblin Wars snitch Forbidden forest grindylows wool socks`,
   },
   {
-    title: "Professional Software Development in 2021",
+    title: "CSS in 2021",
     date: "Mar 31st, 2021",
     firstParagraph: `Boggarts lavender robes, Hermione Granger Fantastic Beasts and Where to Find Them. Bee in your bonnet Hand of Glory elder
     wand, spectacles House Cup Bertie Bott’s Every Flavor Beans Impedimenta. Stunning spells tap-dancing spider Slytherin’s Heir
